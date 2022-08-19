@@ -4,7 +4,7 @@
 
 ## About me!
 * I'm a rock climber!
-* I'm a SAINT orphan!
+* I'm a SAINTCON orphan!
 * I'm a student too!
 
 ## What I want to learn!
