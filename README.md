@@ -17,4 +17,4 @@
 * And lots more!
 
 ## Why CS?
-CS has always been a part of my life and I've grown to like it a lot! There's still tons for me to learn and try. Looking forward to many new ~~bugs~~ *FEATURES* 
+CS has always been a part of my life and I've grown to like it a lot! There's still tons for me to learn and try. Looking forward to many new ~~bugs~~ *FEATURES*!
