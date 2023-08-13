@@ -1,4 +1,4 @@
-# Hello! I'm Mich!
+# Hello! I'm Mich/Squatchy!
 
 ## What I want to learn!
 * React Native for app development!
