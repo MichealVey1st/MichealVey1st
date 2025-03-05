@@ -1,6 +1,6 @@
-# Hello! I'm Gabriel J/Squatchy!
+# Hello! I'm Squatchy!
 
-## I want to learn!
+## I want to learn:
 * React
 * React Native for app development!
 * Java!
